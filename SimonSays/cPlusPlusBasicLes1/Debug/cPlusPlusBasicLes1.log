@@ -1,0 +1,4 @@
+﻿  cPlusPlusBasicLes1.cpp
+D:\C++ Basic\cPlusPlusBasicLes1\cPlusPlusBasicLes1\cPlusPlusBasicLes1.cpp(15,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\C++ Basic\cPlusPlusBasicLes1\cPlusPlusBasicLes1\cPlusPlusBasicLes1.cpp(13,9): warning C4101: 'num': unreferenced local variable
+  cPlusPlusBasicLes1.vcxproj -> D:\C++ Basic\cPlusPlusBasicLes1\Debug\cPlusPlusBasicLes1.exe
