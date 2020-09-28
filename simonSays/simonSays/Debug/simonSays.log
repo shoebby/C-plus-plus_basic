@@ -1,0 +1,4 @@
+﻿  simonSays.cpp
+D:\C++ Basic\simonSays\simonSays\simonSays.cpp(15,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\C++ Basic\simonSays\simonSays\simonSays.cpp(12,9): warning C4101: 'num': unreferenced local variable
+  simonSays.vcxproj -> D:\C++ Basic\simonSays\Debug\simonSays.exe
